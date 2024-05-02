@@ -8,7 +8,6 @@ This project creates an automated system utilizing Make.com to perform comparati
 
 [![Video Preview](https://github.com/zima-0201/Project-Images/blob/main/video%20preview/Brand-Analysis-AI-Workflow.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Brand-Analysis-AI-Workflow.mp4)
 
-
 ## Features
 
 - **Automated Queries**: Automatically sends a series of predefined questions to three different AI models upon the addition of a new row in Google Sheet.
