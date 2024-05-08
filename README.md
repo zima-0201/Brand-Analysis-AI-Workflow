@@ -6,7 +6,7 @@ This project creates an automated system utilizing Make.com to perform comparati
 
 ## Video Preview
 
-[![Video Preview](https://github.com/zima-0201/Project-Images/blob/main/video%20preview/Brand-Analysis-AI-Workflow.jpeg)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Brand-Analysis-AI-Workflow.mp4)
+[![Video Preview](https://github.com/zima-0201/Project-Images/blob/main/video%20preview/Brand-Analysis-AI-Workflow.jpeg)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Brand-Analysis-AI-Workflow.mp4)
 
 ## Features
 
